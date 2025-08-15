@@ -1,7 +1,7 @@
 {
-  "totalUsers": 2,
+  "totalUsers": 3,
   "createdAt": "2025-08-15T12:51:14.972Z",
-  "lastUpdated": "2025-08-15T18:24:20.758Z",
+  "lastUpdated": "2025-08-15T18:55:51.081Z",
   "users": {
     "arthur01_1755262271277": {
       "username": "Arthur01",
@@ -15,6 +15,13 @@
       "email": "luis@gmail.com",
       "fullName": "Luis11",
       "createdAt": "2025-08-15T18:24:20.758Z",
+      "status": "active"
+    },
+    "luisone_1755284146298": {
+      "username": "Luisone",
+      "email": "luisas@gmail.com",
+      "fullName": "Luis11",
+      "createdAt": "2025-08-15T18:55:51.081Z",
       "status": "active"
     }
   }
