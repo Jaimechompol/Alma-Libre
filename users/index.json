@@ -1,0 +1,14 @@
+{
+  "totalUsers": 1,
+  "createdAt": "2025-08-15T12:51:14.972Z",
+  "lastUpdated": "2025-08-15T12:51:14.973Z",
+  "users": {
+    "arthur01_1755262271277": {
+      "username": "Arthur01",
+      "email": "jaime01@gmail.com",
+      "fullName": "Arthur01",
+      "createdAt": "2025-08-15T12:51:14.972Z",
+      "status": "active"
+    }
+  }
+}
