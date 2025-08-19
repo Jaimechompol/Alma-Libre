@@ -1,0 +1,13 @@
+{
+  "id": "m1234_1755572672429",
+  "username": "M1234",
+  "email": "Matias@gmail.com",
+  "fullName": "Matias",
+  "createdAt": "2025-08-19T03:04:32.429Z",
+  "lastLogin": "2025-08-19T03:04:32.429Z",
+  "settings": {
+    "theme": "default",
+    "notifications": true,
+    "privacy": "public"
+  }
+}
