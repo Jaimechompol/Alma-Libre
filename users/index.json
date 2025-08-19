@@ -1,7 +1,7 @@
 {
-  "totalUsers": 5,
+  "totalUsers": 6,
   "createdAt": "2025-08-15T12:51:14.972Z",
-  "lastUpdated": "2025-08-19T02:27:14.641Z",
+  "lastUpdated": "2025-08-19T02:40:30.191Z",
   "users": {
     "arthur01_1755262271277": {
       "username": "Arthur01",
@@ -36,6 +36,13 @@
       "email": "12@31",
       "fullName": "123456",
       "createdAt": "2025-08-19T02:27:14.641Z",
+      "status": "active"
+    },
+    "isai_1755571224210": {
+      "username": "ISAI",
+      "email": "isai@gmail.com",
+      "fullName": "Isai",
+      "createdAt": "2025-08-19T02:40:30.191Z",
       "status": "active"
     }
   }
