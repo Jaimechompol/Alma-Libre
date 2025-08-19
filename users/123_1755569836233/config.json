@@ -1,0 +1,13 @@
+{
+  "id": "123_1755569836233",
+  "username": "123",
+  "email": "1@11",
+  "fullName": "Dereck",
+  "createdAt": "2025-08-19T02:17:16.233Z",
+  "lastLogin": "2025-08-19T02:17:16.233Z",
+  "settings": {
+    "theme": "default",
+    "notifications": true,
+    "privacy": "public"
+  }
+}
